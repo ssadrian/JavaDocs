@@ -1,8 +1,11 @@
+package Generics;
+
+
 /**
  * A generic candy
  *
  * @author Adrian Sebastian Stan
- * @version 1
+ * @version 1.0.1
  */
 public class Candy implements IComestible {
     /**
@@ -13,7 +16,7 @@ public class Candy implements IComestible {
     /**
      * The name of the candy
      */
-    String Name;
+    private String Name;
 
     /**
      * Create a new named candy

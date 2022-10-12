@@ -1,8 +1,11 @@
+package Generics;
+
+
 /**
  * Representation of a comestible
  *
  * @author Adrian Sebastian Stan
- * @version 1
+ * @version 1.0.0
  */
 public interface IComestible {
     /**
