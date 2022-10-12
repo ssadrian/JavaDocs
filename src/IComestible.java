@@ -1,5 +1,8 @@
 /**
- * Represent a comestible
+ * Representation of a comestible
+ *
+ * @author Adrian Sebastian Stan
+ * @version 1
  */
 public interface IComestible {
     /**

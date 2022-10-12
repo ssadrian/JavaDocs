@@ -1,6 +1,9 @@
 /**
- * A traditional Russian fruit confectionery
- * It's a small squares of pressed fruit paste and light, airy puffs with a delicate apple flavor
+ * A traditional Russian fruit confectionery<p>
+ * It's a small square of pressed fruit paste and light, airy puffs with a delicate apple flavor
+ *
+ * @author Adrian Sebastian Stan
+ * @version 1
  */
 public class Pastila extends Candy {
     /**
